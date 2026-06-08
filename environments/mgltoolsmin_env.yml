@@ -1,0 +1,8 @@
+name: mgltools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - mgltools
+

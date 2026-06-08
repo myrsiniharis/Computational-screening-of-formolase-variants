@@ -1,0 +1,7 @@
+name: autodock
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - vina
+

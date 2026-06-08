@@ -1,0 +1,9 @@
+name: mko_obbl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - meeko
+  - python=3.11
+  - openbabel
+
